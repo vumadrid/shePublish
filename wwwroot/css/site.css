@@ -1,0 +1,26 @@
+.navbar-landing .navbar-nav .nav-item .nav-link:hover, .navbar-landing .navbar-nav .nav-item .nav-link.active, .navbar-landing .navbar-nav .nav-item .nav-link:focus {
+    color: #6BA92C !important;
+}
+.text-success {
+    color: #6BA92C !important;
+}
+.btn-primary, .bg-primary, .btn-success {
+    background: #6BA92C !important;
+    border: #6BA92C !important;
+}
+.techpartner{
+    width:100%
+}
+#partner .title {
+    font-size: 3rem;
+    text-align: center;
+    color: rgba(0,0,0,0.8);
+    font-weight: bold;
+    margin-bottom: 3rem;
+}
+#partner .atlantic-text-primary {
+    color: #6BA92C !important;
+}
+.card-logo{
+   height:49px
+}
